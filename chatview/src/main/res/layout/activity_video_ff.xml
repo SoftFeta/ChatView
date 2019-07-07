@@ -26,11 +26,11 @@
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:clickable="true"
-            app:progressColor="@color/colorAccent1"
-            app:progressBackgroundColor="@color/transparent_white_hex_1"
-            app:progressBackgroundWidth="2.5dp"
-            app:progress="20"
-            app:progressWidth="5dp"
+            app:arcsb_progressColor="@color/colorAccent1"
+            app:arcsb_progressBackgroundColor="@color/transparent_white_hex_1"
+            app:arcsb_progressBackgroundWidth="2.5dp"
+            app:arcsb_progress="20"
+            app:arcsb_progressWidth="5dp"
 
             app:roundEdges="true" />
         <com.ohoussein.playpause.PlayPauseView
